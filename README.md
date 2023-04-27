@@ -17,6 +17,7 @@ Pure Javascript ChatGPT demo based on OpenAI API
 [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 
 ![示例](https://raw.githubusercontent.com/xqdoo00o/chatgpt-web/main/example.png)
+- 点击[这个链接](https://dash.deno.com/new?url=https://raw.githubusercontent.com/alitrack/gpt-proxy/master/deno/main.ts)，可以快速一键部署到 Deno Deploy 上。
 
 ## Demo
 
