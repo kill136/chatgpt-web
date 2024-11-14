@@ -1,4 +1,4 @@
-yourdomain.example.com {
+lokitmeyouare.vercel.app {
 	reverse_proxy /v1/* https://api.openai.com {
 		header_up Host api.openai.com
 		header_up Authorization "{http.request.header.Authorization}"
